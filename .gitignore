@@ -41,5 +41,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .project
 .classpath
-api/src/main/resources/application.properties
+**/api/src/main/resources/application.properties
 
